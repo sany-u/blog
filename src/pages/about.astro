@@ -1,5 +1,6 @@
 ---
-const v = "beta 0.5";
+const v = "version beta 0.5";
+const pageTitle = "About this site on the netz";
 ---
 
 <html lang="en">
@@ -7,12 +8,12 @@ const v = "beta 0.5";
     <meta charset="utf-8" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width" />
-    <title>About my blog</title>
+    <title>{pageTitle}</title>
   </head>
   <body>
     <a href="/">home</a>
     <h1>Astro</h1>
     <h3>My Astro blog</h3>
-    <p>v {v}</p>
+    <p>{v}</p>
   </body>
 </html>
