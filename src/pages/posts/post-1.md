@@ -1,8 +1,8 @@
 ---
 title: 'My First Blog Post'
-pubDate: 2022-07-01
+pubDate: 2023-01-01
 description: 'This is the first post of my new Astro blog.'
-author: 'Astro Learner'
+author: 'Sunny Littek'
 image:
     url: 'https://docs.astro.build/assets/full-logo-light.png'
     alt: 'The full Astro logo.'
@@ -10,7 +10,7 @@ tags: ["astro", "blogging", "learning in public"]
 ---
 # My First Blog Post
 
-Published on: 2022-07-01
+Published on: 2023-01-1
 
 Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
 
@@ -24,4 +24,4 @@ Welcome to my _new blog_ about learning Astro! Here, I will share my learning jo
 
 ## What's next
 
-I will finish the Astro tutorial, and then keep adding more posts. Watch this space for more to come.
+I'll (try to) finish the Astro tutorial, and then keep w.
