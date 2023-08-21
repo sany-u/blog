@@ -1,3 +1,3 @@
 npm run build 
 surge dist
-slr.surge.sh
+printf slr.surge.sh
